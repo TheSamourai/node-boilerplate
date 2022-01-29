@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "TheSamourai",
+	"description": "The Very Frist Project of Samourai",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
